@@ -1,0 +1,785 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22631.4541; Version 2009; 64bit' Language: 'en' Physical Memory: 16230 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Sem. 5/Grafkom/tugas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62981
+Successfully changed project path to: E:/Sem. 5/Grafkom/tugas
+E:/Sem. 5/Grafkom/tugas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 94.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Sem. 5/Grafkom/tugas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c92)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.21.14.3184
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002680 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 86.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.663 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2663ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (708ms)
+			LoadAssemblies (130ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (264ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (290ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (86ms)
+				BeforeProcessingInitializeOnLoad (18ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 93.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.326 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2328ms)
+		BeginReloadAssembly (264ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (1955ms)
+			LoadAssemblies (174ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (633ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (144ms)
+			SetupLoadedEditorAssemblies (805ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (93ms)
+				BeforeProcessingInitializeOnLoad (157ms)
+				ProcessInitializeOnLoadAttributes (525ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3224 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 138.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3661.
+Total: 4.825400 ms (FindLiveObjects: 0.361400 ms CreateObjectMapping: 0.242400 ms MarkObjects: 4.111800 ms  DeleteObjects: 0.107600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/vfx_blood_cum.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfx_blood_cum.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de7ef562e9d7923ea87bbc1bd0030c4') in 0.069430 seconds 
+  Import took 0.079835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.943237 seconds.
+  path: Assets/vfxgraph_blood_cum.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood_cum.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff50c9c83101748eb91027f5a923c765') in 0.014138 seconds 
+  Import took 0.021939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.131148 seconds.
+  path: Assets/vfxgraph_blood_tut.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood_tut.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a329115c88b44feede54fff4f44753') in 0.004850 seconds 
+  Import took 0.012419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.418401 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799c5a7d58a791be62b75dd25005f076') in 0.017116 seconds 
+  Import took 0.027016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.983766 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e91e02884a9841dbf8ddcb24439f288') in 0.004732 seconds 
+  Import took 0.014104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.429607 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dca703cb6edaac5afed41e898225289') in 0.004332 seconds 
+  Import took 0.011525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005152 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dca703cb6edaac5afed41e898225289') in 0.004467 seconds 
+  Import took 0.011466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.553620 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf1642ce28ce3fc90aa4b811d6d9ea0') in 0.004160 seconds 
+  Import took 0.012268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.342730 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9fa054240dcfe5a04ab2fea51c272d') in 0.004637 seconds 
+  Import took 0.013342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.642340 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d894634aaf676ba414631da00f9ce2e') in 0.004326 seconds 
+  Import took 0.012561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.854274 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7685118e7553de407939b5a695019487') in 0.004584 seconds 
+  Import took 0.011062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.834174 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a48cac09c7bc5cece0658338442f903') in 0.006259 seconds 
+  Import took 0.014907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.900352 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b9aafcd38a52667c8145447940d768') in 0.005286 seconds 
+  Import took 0.013813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.906786 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '172cf469739d8006d8f07d168d507f2b') in 0.004491 seconds 
+  Import took 0.012726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.548448 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4376c3f0f9d397296d17a5daca49effd') in 0.004540 seconds 
+  Import took 0.013597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.069656 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b9ba7e6cd265a7c558e0b2c05722d7') in 0.005758 seconds 
+  Import took 0.015702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.736576 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd221a56d8a3e46b1413f180efaa2621') in 0.005006 seconds 
+  Import took 0.014436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.853075 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68205fca9861102a7a759b4dfea2343') in 0.008226 seconds 
+  Import took 0.022387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.310965 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3efba408e49475f521722466a00d21') in 0.007112 seconds 
+  Import took 0.013778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.571680 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a7d6fbbb14499149af4fb8042d9d50') in 0.005742 seconds 
+  Import took 0.018492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.509757 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b44133c41f7ae9b06066afeb04bb1d') in 0.008720 seconds 
+  Import took 0.026442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.166445 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138ee154b39124e237781f2af7210a66') in 0.007059 seconds 
+  Import took 0.017864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.127120 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2128d34f82280484ef91be14fb277a1a') in 0.008310 seconds 
+  Import took 0.027142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.846097 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245f1ade7b7e04dfe98e701098487f03') in 0.006359 seconds 
+  Import took 0.015463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.702929 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d32cd8f445f31cf102fb432aefb4b3d') in 0.012054 seconds 
+  Import took 0.029704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.696944 seconds.
+  path: Assets/vfxgraph_blood_tut.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood_tut.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608b8380c55e97d0c33eb71f4e301fda') in 0.008288 seconds 
+  Import took 0.015863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002500 seconds.
+  path: Assets/vfxgraph_blood_tut.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood_tut.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608b8380c55e97d0c33eb71f4e301fda') in 0.005951 seconds 
+  Import took 0.013174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.421844 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b47d9f560a362e17d56c3ceac48d3b') in 0.005083 seconds 
+  Import took 0.011989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.482866 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a700e9ffb9ea36f20a790e793101bfe') in 0.004598 seconds 
+  Import took 0.011855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 348.037839 seconds.
+  path: Assets/vfxgraph_blood_tut.vfx
+  artifactKey: Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood_tut.vfx using Guid(4eddc978861845640af88e2d1a58c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b743edd38f68f0e4cbf148172d09ad66') in 0.010118 seconds 
+  Import took 0.023820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.768365 seconds.
+  path: Assets/blood_shader.shadergraph
+  artifactKey: Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/blood_shader.shadergraph using Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e655ae796880ed51ef9a174cc361395b') in 0.028086 seconds 
+  Import took 0.036519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.473533 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c4671eaf379951bbb9c2f02c607a6b') in 0.004708 seconds 
+  Import took 0.014455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.198835 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f150116b2d9986db96dddb89cd945b') in 0.005686 seconds 
+  Import took 0.013079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.646828 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4cd0ff279a81e0e9eec4cc186f32d5') in 0.004060 seconds 
+  Import took 0.010359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.788996 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e1e6b2a59f359f62d2cd9ebe8ed6f1') in 0.006070 seconds 
+  Import took 0.013500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 389.234848 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09dd058d5ba0478ba900c0ce43d55432') in 0.008733 seconds 
+  Import took 0.025551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.509389 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f918b1675328696feb22c5387c7762f7') in 0.005389 seconds 
+  Import took 0.014344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.897575 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2182d8a7c2ddd739a0d8c5a8ee6a8c') in 0.004743 seconds 
+  Import took 0.012163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.449443 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fb48d58c42579287963fc6db08a4e9') in 0.006485 seconds 
+  Import took 0.014610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.380702 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fcd93d92f06f2dd3ff10e4f386ebac') in 0.009001 seconds 
+  Import took 0.023910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.289588 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560cca344d69d033d89e0588a827bfa6') in 0.004932 seconds 
+  Import took 0.011875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.437865 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd39fd921cc9d911f15060c8492a64e6') in 0.004030 seconds 
+  Import took 0.016223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.115420 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6eff79c7f3ea106dbcdd2a8d30f4b7d') in 0.005823 seconds 
+  Import took 0.016527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.665563 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3409c4f37c744bb279a468c1a105db1') in 0.006334 seconds 
+  Import took 0.015379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.232175 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0035095e1caf1d11dbda493cd365726d') in 0.008504 seconds 
+  Import took 0.027760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.348220 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6d17c54d9583bbc49e4391757f6f0a') in 0.008109 seconds 
+  Import took 0.016069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 344.078793 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af99d14adf9957af33a1b2031c10951') in 0.005901 seconds 
+  Import took 0.013765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.247470 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb677ad291982893dc73664518afbc95') in 0.005533 seconds 
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.488586 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb75f4452692ef9af12bb3db8623f4a') in 0.004193 seconds 
+  Import took 0.010519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.309486 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45968affe3451c79c099c162f08cb3c3') in 0.004895 seconds 
+  Import took 0.013674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.580060 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace3a3839d889ed4551cb83641b22d43') in 0.004373 seconds 
+  Import took 0.010529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.015137 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd867dfced7f31f1c476c99064cd0f752') in 0.005356 seconds 
+  Import took 0.011803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.197852 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad0416b67154d40d951341fe9eb778f6') in 0.003973 seconds 
+  Import took 0.010278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.985621 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef63b19c3a97cc5a26027b7395d20f4') in 0.004318 seconds 
+  Import took 0.010346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.702748 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a61d313c47edac9a82f02f3d9be357e') in 0.004483 seconds 
+  Import took 0.010262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.533061 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0270d1d65f02de2946d52fc10b8acca5') in 0.004175 seconds 
+  Import took 0.010635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.717223 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f00a8c7b0411de29de258e10f5123a4') in 0.004607 seconds 
+  Import took 0.011180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 339.839738 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d86905e3b56f9252dea297f9be09716') in 0.004635 seconds 
+  Import took 0.012331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.309762 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bcb3ebfd7ccaa154d880a3c2f46825') in 0.004822 seconds 
+  Import took 0.011912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.230934 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f27df04af5940a89a92147ab89f455d') in 0.007161 seconds 
+  Import took 0.014067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.020828 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25cf1428dcd90c23713769eb4b69b04') in 0.004984 seconds 
+  Import took 0.010918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.785803 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d6a462c1777cb4fac9790afa127d28') in 0.007770 seconds 
+  Import took 0.016869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.042320 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec0b0dce1c3061cbca3ae8540476356') in 0.004907 seconds 
+  Import took 0.011553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.963355 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0ff625ac9685fc292b5ebcdffd34b1') in 0.005058 seconds 
+  Import took 0.013150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.136231 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976e0cfd4a1a99eb50b7973af8cdd034') in 0.005236 seconds 
+  Import took 0.013838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.843009 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8efa1644d01561e6a033d5392b8ededf') in 0.010826 seconds 
+  Import took 0.017041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.719140 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4610aab98eb8fb6b3fe1b4ae29683a09') in 0.006054 seconds 
+  Import took 0.012490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.032595 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dac692df5bd49c87060d69ff1d7e51') in 0.005162 seconds 
+  Import took 0.014333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.995410 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ff6053601a50b60eb9e8f772773474') in 0.006383 seconds 
+  Import took 0.013680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.684703 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4658ad5af64bb3677cc4ee93f1e13c8') in 0.005104 seconds 
+  Import took 0.013369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.854601 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e71e1e0915405430e96c604d3f68d3') in 0.005654 seconds 
+  Import took 0.013104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.055430 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d744b8bda8e0abe9b88b681e27718c7') in 0.005439 seconds 
+  Import took 0.014552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.882885 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf26008e174ec61fa7dd621a09a616f') in 0.005673 seconds 
+  Import took 0.013905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.316901 seconds.
+  path: Assets/blood_shader.shadergraph
+  artifactKey: Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/blood_shader.shadergraph using Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1925adfac1ccca202cfc1743fd689e8c') in 0.005123 seconds 
+  Import took 0.011592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/tanah.mat
+  artifactKey: Guid(ede30625589f0f442b2a7e5deee96fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tanah.mat using Guid(ede30625589f0f442b2a7e5deee96fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef0841730765cf63494fbcb3c87b054') in 0.471957 seconds 
+  Import took 0.479054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/blood_shader.shadergraph
+  artifactKey: Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/blood_shader.shadergraph using Guid(919ad8f0ceaf0d24c92c2eb1bc94eba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1925adfac1ccca202cfc1743fd689e8c') in 0.003662 seconds 
+  Import took 0.011506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.593631 seconds.
+  path: Assets/vfx_Blood_Loop_Tut.prefab
+  artifactKey: Guid(2ed5c37b296cab64a89a50dab2069275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfx_Blood_Loop_Tut.prefab using Guid(2ed5c37b296cab64a89a50dab2069275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be43464601d590cd4a681f4bcd32247') in 0.047163 seconds 
+  Import took 0.055822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008735 seconds.
+  path: Assets/vfx_Blood_Loop_Tut.prefab
+  artifactKey: Guid(2ed5c37b296cab64a89a50dab2069275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfx_Blood_Loop_Tut.prefab using Guid(2ed5c37b296cab64a89a50dab2069275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be43464601d590cd4a681f4bcd32247') in 0.018956 seconds 
+  Import took 0.028355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.686960 seconds.
+  path: Assets/Cube.prefab
+  artifactKey: Guid(a582b3d070b64204eb77f0b597b97364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cube.prefab using Guid(a582b3d070b64204eb77f0b597b97364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c0995d693a68e1584fbad26082e10c') in 0.028499 seconds 
+  Import took 0.036739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 162.301183 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913098ddda93ed140f2fad8ed61fcbcb') in 0.005699 seconds 
+  Import took 0.012154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003134 seconds.
+  path: Assets/vfxgraph_blood.vfx
+  artifactKey: Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/vfxgraph_blood.vfx using Guid(06bbb30a9aee3494295243bb7e74d0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913098ddda93ed140f2fad8ed61fcbcb') in 0.005336 seconds 
+  Import took 0.011444 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
