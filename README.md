@@ -2,3 +2,10 @@
 
 ## Unity Presentation Video (Unity VFX Graph - Blood Tutorial (Procedural Shader))
 [Video Link](https://www.youtube.com/watch?v=IVj7-usBxHo)
+
+|    NRP     |      Name      |
+| :--------: | :------------: |
+| 5025221002 | Iftala Zahri Sukmana |
+| 5025221018 | Mirza Zaki Rafi'i |
+| 5025221040 | Genta Putra Prayoga |
+| 5025221228 | Ranto Bastara Hamonangan Sitorus |
